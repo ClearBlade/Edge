@@ -1,1 +1,1 @@
-ClearBlade Edge 3.5
+ClearBlade Edge 3.6-rc1
