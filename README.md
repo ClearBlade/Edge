@@ -1,1 +1,1 @@
-ClearBlade Edge 3.8-hotfix2
+ClearBlade Edge 3.9-rc1
