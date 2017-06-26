@@ -1,1 +1,1 @@
-ClearBlade Edge 3.9.3
+ClearBlade Edge 3.9.4
