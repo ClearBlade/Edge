@@ -1,1 +1,1 @@
-ClearBlade Edge 3.9.5-hotfix2
+ClearBlade Edge 3.10-hotfix2
