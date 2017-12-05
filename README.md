@@ -1,1 +1,1 @@
-ClearBlade Edge 3.19-hotfix1
+ClearBlade Edge 3.20
