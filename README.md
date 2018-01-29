@@ -1,1 +1,1 @@
-ClearBlade Edge 3.22-rc1
+ClearBlade Edge 3.22-rc2
