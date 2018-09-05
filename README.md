@@ -1,1 +1,1 @@
-ClearBlade Edge 4.1.10
+ClearBlade Edge 4.1.11
