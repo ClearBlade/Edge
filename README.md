@@ -1,1 +1,1 @@
-ClearBlade Edge 4.2.5
+ClearBlade edge 0.0.0-rc0
