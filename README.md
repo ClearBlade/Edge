@@ -1,1 +1,3 @@
-ClearBlade edge 4.3.0-rc1
+ClearBlade Edge Releases
+
+https://github.com/ClearBlade/Edge/releases
