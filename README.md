@@ -11,7 +11,7 @@ ex. "linux-arm64", "inux-armv7"
 ```
 curl -fsSL https://get.clearblade.com -o get-clearblade.sh
 sh get-clearblade.sh edge linux-amd64
-edge -novi-ip='platform.clearblade.com' -parent-system='d696a6c50be8b7eba5c6938afe10' -edge-ip='localhost' -edge-id='gateway' -edge-cookie='6mb55i6582wh9166BtT82C2SENm1pp5' > log.txt
+edge -novi-ip='platform.clearblade.com' -parent-system='ec8fa7c50b8ca7a3c2e3bac7ecec01' -edge-ip='localhost' -edge-id='gateway' -edge-cookie='8m4Mg989f996Gax16695x2Av7hK' &> log.txt
 ```
 
 3) Share log.txt with ClearBlade Representative
