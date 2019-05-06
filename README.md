@@ -4,7 +4,7 @@
 
 1) Select your OS-ARCH from the list found [here](https://stagingdocs.clearblade.com/v/4/edge/#install)
 
-ex. "linux-arm64", "inux-armv7"
+ex. "linux-arm64", "linux-armv7"
 
 2) Run in bash shell:
 
